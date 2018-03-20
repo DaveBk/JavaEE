@@ -1,0 +1,6 @@
+web\servlets\FirstServlet.class
+web\servlets\ServletPDF.class
+javaObjects\InputData.class
+javaObjects\OutputData.class
+web\servlets\SecondServlet.class
+control\Calculator.class
