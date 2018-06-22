@@ -1,0 +1,4 @@
+domain\Person.class
+rest\services\PersonResource.class
+rest\services\ApplicationConfig.class
+rest\services\TestRest.class
