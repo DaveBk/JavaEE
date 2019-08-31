@@ -1,0 +1,16 @@
+domain\Domain.class
+web\filtr\loginAccess.class
+web\filtr\loginsiteAcess.class
+web\profil.class
+web\filtr\profilFilter.class
+web\filtr\premiumAddAccess.class
+web\AddApp.class
+web\logout.class
+web\filtr\premiumFilter.class
+web\filtr\registerAccess.class
+web\premium.class
+web\filtr\RegisterFilter.class
+domain\DummyAplicationRepository.class
+web\Login.class
+repositories\ApplicationRepository.class
+web\privlage.class
